@@ -1,0 +1,23 @@
+# Build
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Maven
+.mvn/wrapper/
+mvnw
+mvnw.cmd
+
+# Agent results
+.agent-results/
+
+# OS
+.DS_Store
+Thumbs.db
